@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_1">Столиця Туреччини - Константинополь</string>
+    <string name="question_2">Тихий океан більший за Атлантичний</string>
+    <string name="toast_true">Ви відповіли правильно!</string>
+    <string name="toast_false">Ви відповіли неправильно!</string>
+    <string name="already_answered">Ви вже відповіли на це питання!</string>
+    <string name="score_format">Рахунок: %1$d/%2$d</string>
+    <string name="game_over_format">Гра закінчена!\nФінальний рахунок: %1$d/%2$d</string>
+    <string name="tap_to_play_again">Натисніть текст, щоб грати знову</string>
+</resources>
